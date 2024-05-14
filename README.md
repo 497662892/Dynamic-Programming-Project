@@ -25,5 +25,7 @@ If you are interested in the data augmentation and polyp segmentation part, you 
 ## folders
 
 logs: the folder to store the logs of the experiment (testing)
+
 feature_maps: the folder to store the feature maps of the original and synthetic images
+
 data: the folder to store the data of the experiment, which only include the csv file (no images)
