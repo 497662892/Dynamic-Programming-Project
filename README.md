@@ -22,10 +22,12 @@ In this repo, we provide the code for the implement of our proposed method and t
 
 If you are interested in the data augmentation and polyp segmentation part, you can refer to https://github.com/497662892/Ai-Security-Final-Project, it also provide the full code and data we used in this experiment.
 
-## folders
+## files and folders
 
 logs: the folder to store the logs of the experiment (testing)
 
 feature_maps: the folder to store the feature maps of the original and synthetic images
 
 data: the folder to store the data of the experiment, which only include the csv file (no images)
+
+222041049_majiajian.pdf: the report of the project
